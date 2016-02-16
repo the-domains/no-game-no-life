@@ -1,0 +1,28 @@
+name: No game No life
+favicon: null
+layout_spectrum: 0.3477672131266445
+typography_spectrum: 0.811997122131288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7082742319907993
+  lightness: 0.39316206495277584
+  saturation: 0.372866841731593
+  rhythmicContrast: 0.44928710884414613
+purpose: []
